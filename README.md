@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-rana-57528a267/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/harsh_.2010" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>

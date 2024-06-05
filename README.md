@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
+- 👨‍🦲 Portfolio **https://harshranaportfolio.vercel.app/** 
+
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-rana-57528a267/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

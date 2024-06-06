@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **ranaharsh020@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
-
 - 👨‍🦲 Portfolio **https://harshranaportfolio.vercel.app/** 
 
 <h3 align="left"> 🌐 Connect with me:</h3>
